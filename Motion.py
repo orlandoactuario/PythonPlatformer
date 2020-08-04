@@ -1,4 +1,3 @@
-
 import pygame as pg
 import sys
 from settings_salto import Settings
